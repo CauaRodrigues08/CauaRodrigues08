@@ -2,9 +2,9 @@
 
 ## Olá, eu sou o Cauã 💻
 - ☝️🤓 Estudante do IFCE do curso de Informática
-- Aprendendo Java e JavaScript
-- Iniciante em programação 🧠 📉
-- Gosta de TTRPGs! 🎲
+- Desenvolvendo uma ficha virtual
+- Aprendendo Swift e banco de dados
+- Gosto de TTRPGs! 🎲
 
 ##
 <!--
