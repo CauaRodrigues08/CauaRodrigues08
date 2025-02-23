@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Cauã 💻
 - ☝️🤓 Estudante do IFCE do curso de Informática
-- Desenvolvendo uma ficha virtual
+- Desenvolvendo uma ficha virtual para Call of Cthulhu
 - Aprendendo Swift e banco de dados
 - Gosto de TTRPGs! 🎲
 
