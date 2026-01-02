@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
 ## Olá, eu sou o Cauã 💻
-- ☝️🤓 Estudante do IFCE do curso de Informática
-- Desenvolvendo uma ficha virtual para Call of Cthulhu
-- Aprendendo Dart, Flutter e GDScript!
+- Estudante do IFCE do curso de Informática
+- Desenvolvendo um jogo para a plataforma roblox
+- Atualmente se aventurando em modelagem 3D 
 - Gosto de TTRPGs! 🎲
 
 ##
