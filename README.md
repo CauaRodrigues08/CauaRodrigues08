@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a007a&height=120&section=header"/>
 
 ## Olá, eu sou o Cauã 💻
-- Estudante do IFCE do curso técnico integrado em Informática
-- Desenvolvendo um jogo para a plataforma Roblox
-- Atualmente se aventurando em modelagem 3D 
+- Estudei no curso Técnico Tntegrado em Informática no IFCE
+- Aspirante a desenvolvedor de jogos
+- Atualmente me aventurando em modelagem 3D 
 - Gosto de TTRPGs! 🎲
 
 ##
